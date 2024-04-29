@@ -1,3 +1,7 @@
+// Escreva um algoritmo que leia o código de origem de um produto e imprima a região do mesmo, conforme a tabela abaixo:
+
+// Instruções: o usuário deverá informar o código de um produto qualquer, o código deve ser entre 1 e 50
+
 const prompt = require('prompt-sync')();
 
 const codigo = parseInt(prompt('Informe o código de origem do produto entre 1 a 50: '));

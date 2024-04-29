@@ -1,3 +1,7 @@
+// Acrescente ao exercício acima a mensagem ‘Você foi REPROVADO! Estude mais’ caso a média calculada seja menor que 6,0
+
+// Instruções: este é apenas um complemento ao exercício anterior
+
 const prompt = require('prompt-sync')();
 
 const nota1 = parseInt(prompt('Informe a nota da primeira prova: '));

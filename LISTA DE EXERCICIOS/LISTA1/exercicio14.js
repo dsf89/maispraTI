@@ -1,3 +1,7 @@
+// Fazer um algoritmo para receber números decimais até que o usuário digite 0 e fazer a média aritmética desses números.
+
+// Instruções: o usuário deverá informar a quantidade de números que desejar
+
 let soma = 0;
 let quantidadeNumeros = 0;
 

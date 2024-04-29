@@ -50,14 +50,14 @@
 //     console.log(`Números multiplicados: ${numeros*2}`)    
 // });
 
-let BicicletaFactory = function(cor, tipo, marca) {
-    return {
-        cor,
-        tipo,
-        marca
-    }
-}
+// let BicicletaFactory = function(cor, tipo, marca) {
+//     return {
+//         cor,
+//         tipo,
+//         marca
+//     }
+// }
 
-let bicicleta1 = BicicletaFactory('azul', 'trail', 'monark')
+// let bicicleta1 = BicicletaFactory('azul', 'trail', 'monark')
 
-console.log(bicicleta1)
+// console.log(bicicleta1)

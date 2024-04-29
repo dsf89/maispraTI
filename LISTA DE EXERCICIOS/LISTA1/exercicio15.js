@@ -1,3 +1,7 @@
+// Fazer um algoritmos para receber um número decimal e o peso de cada número até que o usuário digite o número 0. Fazer a média ponderada desses números e pesos respectivos.
+
+// Instruções: o usuário deverá informar a quantidade de números que desejar ou zero para finalizar o código
+
 function lerNumeroDecimal() {
     const prompt = require('prompt-sync')();
     let valor = prompt("Digite um número decimal (ou 0 para finalizar): ");
